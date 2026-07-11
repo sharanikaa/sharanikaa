@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharanika A</h1>
 
 <h3 align="center">
-Aspiring Cloud & DevOps Engineer | AI & ML Background
+Aspiring Cloud & DevOps Engineer
 </h3>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 Final Year AI & ML Student
-- ☁️ AWS Certified Cloud Practitioner
-- 💻 Interested in Cloud Computing, DevOps and AI
-- 🌱 Currently learning ServiceNow & AWS
-- 🚀 Building Cloud & AI Projects
 
 ---
 
