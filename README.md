@@ -4,8 +4,6 @@
 Aspiring Cloud & DevOps Engineer
 </h3>
 
----
-
 ### 🌐 Connect with me
 
 <p align="left">
