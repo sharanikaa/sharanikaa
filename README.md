@@ -1,55 +1,114 @@
-<h1 align="center">Hi 👋, I'm Sharanika A</h1>
+<h1 align="center">Hi there, I'm Sharanika A 👋</h1>
+<h3 align="center">AI/ML Engineer | DevOps Enthusiast | AWS Cloud Practitioner</h3>
 
-<h3 align="center">
-Aspiring Cloud & DevOps Engineer
-</h3>
+---
 
-### 🌐 Connect with me
+## 🚀 About Me
+
+I'm an Artificial Intelligence & Machine Learning undergraduate passionate about building intelligent applications and cloud-native solutions.
+
+I enjoy combining Machine Learning, Cloud Computing, and DevOps to develop scalable software that solves real-world problems. From deploying cloud infrastructure on AWS to building AI-powered applications, I'm always excited to learn and build impactful technology.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</p>
+
+---
+
+## 🛠 Languages and Tools
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sharanika-a-39a422299/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+
+## 🌟 What I Do
+
+- 🤖 Build Machine Learning solutions
+- ☁️ Design scalable AWS cloud architectures
+- 🐳 Deploy applications using Docker & Kubernetes
+- 📊 Develop REST APIs with Flask
+- 🚀 Build end-to-end AI applications
+- 📈 Create production-ready cloud deployments
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 MaternAI
+AI-powered maternal health risk prediction system built using Machine Learning and Flask REST APIs.
+
+### ☁️ DATA Feedback Platform
+Cloud-native feedback management platform deployed on AWS using EC2, Lambda, API Gateway, DynamoDB, S3, and CI/CD pipelines.
+
+---
+
+## 🏆 Certifications
+
+🏅 AWS Certified Cloud Practitioner
+
+🏅 ServiceNow Certified Application Developer
+
+🏅 ServiceNow Certified System Administrator
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+## 🌱 Currently Learning
 
-<p>
+- Advanced Kubernetes
+- MLOps
+- AWS DevOps
+- CI/CD Automation
+- Cloud Security
 
-<img src="https://skillicons.dev/icons?i=python"/>
+---
 
-<img src="https://skillicons.dev/icons?i=java"/>
+## 🤝 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=aws"/>
+📧 **Email:** sharanika20a@gmail.com
 
-<img src="https://skillicons.dev/icons?i=docker"/>
+💼 **LinkedIn:** https://linkedin.com/in/sharanikaa
 
-<img src="https://skillicons.dev/icons?i=git"/>
+🐙 **GitHub:** https://github.com/YOUR_USERNAME
 
-<img src="https://skillicons.dev/icons?i=github"/>
+---
 
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sharanikaa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharanikaa&layout=compact&theme=tokyonight)
+<h3 align="center">
+✨ Building Intelligent Solutions • Deploying at Scale • Learning Every Day ✨
+</h3>
